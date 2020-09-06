@@ -1,0 +1,2 @@
+# AmeliorMate
+AmeliorMate Python Library
