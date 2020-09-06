@@ -55,7 +55,7 @@ class ChatBot():
     while True:
       user_input = input(self.user)
 
-      if user_input != "QUIT".lower():
+      if user_input.lower() != "quit":
 
         combined = self.prompt + self.user + user_input + "\r\n" + self.bot
 
