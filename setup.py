@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="AmeliorMate-AmeliorM",
     version="0.0.1",
-    author="Katie Evanko-Douglas,
+    author="Katie Evanko-Douglas",
     author_email="katie@ameliormate.com",
     description="A a few methods for making GPT3 chatbots",
     long_description=long_description,
